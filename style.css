@@ -1,3 +1,7 @@
 img {
-    border: 5px solid #555;
-  }
+    box-shadow:
+      0 0 0 1px #E93F56,
+      0 0 0 5px #413DD4,
+      0 0 0 7px #E93F56;
+    width: 400px;
+}

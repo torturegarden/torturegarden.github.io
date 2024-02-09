@@ -1,0 +1,17 @@
+.ui-tooltip {
+z-index: 1500;
+position: absolute;
+border: 3px solid #000;
+background-color: #eee;
+padding: 7px;
+width: 250px;
+opacity: .97;
+border-radius: 15px;
+box-shadow: 0 0 5px 6px #ccc;
+pointer-events: none;
+}
+
+body {
+font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
+font-size: 14.4px;
+}
